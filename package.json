@@ -1,10 +1,10 @@
 {
-	"name": "puppeteer",
-	"version": "0.0.1",
-	"description": "",
-	"author": "",
+	"name": "puppeteer-pre-rendering-service",
+	"version": "1.0.0",
+	"description": "A node service to pre-render pages to be served to web crawlers",
+	"author": "Jonathan D'souza",
 	"private": true,
-	"license": "UNLICENSED",
+	"license": "MIT",
 	"scripts": {
 		"prebuild": "rimraf dist",
 		"build": "nest build",
